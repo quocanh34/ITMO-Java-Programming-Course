@@ -1,4 +1,4 @@
-Implement a console application that implements interactive management of a collection of objects. The collection must store objects of the class Flatdescribed below.
+#Implement a console application that implements interactive management of a collection of objects. The collection must store objects of the class Flatdescribed below.
 
 The developed program must meet the following requirements:
 
