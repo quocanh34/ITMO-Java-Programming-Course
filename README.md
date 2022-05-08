@@ -1,1 +1,2 @@
-# ITMO-Java-Programming-Course
+# This is a course offered by ITMO University for first year student.
+## We have 8 laboratories to get used to basic programming concepts, object-oriented programming and others.##
