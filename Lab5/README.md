@@ -1,7 +1,7 @@
 
 ## Laboratory work #5. ##
 
-Implement a console application that implements interactive management of a collection of objects. The collection must store objects of the ```Person``` class, which is described below.
+Implement a console application that implements interactive management of a collection of objects. The collection must store objects of the ```Flat``` class, which is described below.
 
 ### The developed program must meet the following requirements: ###
 
