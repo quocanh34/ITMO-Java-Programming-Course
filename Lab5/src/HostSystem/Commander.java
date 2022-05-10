@@ -106,7 +106,7 @@ public class Commander {
 								collectionManager.group_counting_by_id();
 								break;
 						}
-					}catch(ArrayIndexOutOfBoundsException ex){
+					} catch(ArrayIndexOutOfBoundsException ex){
 						System.out.println("Argument of command is absent. Write help for help");
 					} catch (ParserConfigurationException e) {
 						e.printStackTrace();
